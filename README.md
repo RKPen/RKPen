@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @RKPen
-- 👀 I’m interested in various types of programming that deal with data.
+- 👀 I’m interested in various types of programming ijn various languages.
 - 🌱 I’m currently learning different programming languages such as Python , Java , C++
 - 💞️ I’m looking to collaborate on small projects that are within my abilities.
-- 📫 How to reach me: DM through Twitter @KarimMaamari1
 
 <!---
 RKPen/RKPen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
