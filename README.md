@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RKPen
+- 👋 Hi, I’m RKPen
 - 👀 I’m interested in various types of programming ijn various languages.
 - 🌱 I’m currently learning different programming languages such as Python , Java , C++
 - 💞️ I’m looking to collaborate on small projects that are within my abilities.
